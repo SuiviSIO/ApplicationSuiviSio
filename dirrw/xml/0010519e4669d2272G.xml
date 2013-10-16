@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="519e4669d2272">
+    <ref>519e4669d2272</ref>
+    <datesv>2013-05-23</datesv>
+  </sauvegarde>
+  <etudiant numero="10">
+    <nom>Maury</nom>
+    <prenom>Raphaël</prenom>
+    <mel>raphael.maury@gmail.com</mel>
+    <situation ref="35">
+      <ref>35</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation d'un serveur de supervision Nagios</libcourt>
+      <descriptif>Je dois installer nagios. C'est un logiciel de supervision des systèmes et des réseaux.Le but principal de Nagios est de surveiller les services qui fonctionnent sur les serveurs et également les actifs réseaux tels que les commutateurs et les routeurs.</descriptif>
+      <contexte>Le réseau de l'ARS Corse( Agence Régional de la Santé )ayant évolué, un logiciel de supervision est maintenant nécessaire et indispensable.
+
+</contexte>
+      <datedebut>2012-06-04</datedebut>
+      <datefin>2012-06-22</datefin>
+      <environnement>Serveur, distribution redhat, l'application nagios, application putty et WinSCP.</environnement>
+      <moyen>Serveur dell, architecture du réseau, tuto redhat, documentation internet, documentation imprimante toshiba en vu de l'installation d'un agent snmp.</moyen>
+      <avisperso>Ce stage m'a permis d’acquérir des compétences professionnelles. Mon tuteur satisfait de mon travail, m'a proposé un CDD saisonnier au mois d'aout. </avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>nagios</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai du rendre compte de mes activités sur le wiki de mon lycée chaque jour.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Lorsque j'ai travailler pendant l'été, j'ai été charger de la regulation du service informatique. Gestion des tickets sur glpi, répondre au telephone et aller le réparer directement.  </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>création du schéma réseau sous visio </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>J'ai configuré un serveur dont le but est d'installer nagios puis de le déployer dans la salle de réseau.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Tuto nagios</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Pour paramétré ce serveur, je utilisé putty pour pouvoir l'administrer à distance mais aussi le navigateur de recherche pour accéder à nagios.</commentaireactivite>
+      </activitecitee>
+      <production numero="9">
+        <numero>9</numero>
+        <designation>conte rendu 2</designation>
+        <adresse>http://llb.ac-corse.fr/lcs/index.php?url_redirect=accueil.php</adresse>
+      </production>
+      <production numero="10">
+        <numero>10</numero>
+        <designation>conte rendu semaine 3</designation>
+        <adresse>http://llb.ac-corse.fr/lcs/index.php?url_redirect=accueil.php</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="73">
+      <ref>73</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation d'un serveur de supervision shinken</libcourt>
+      <descriptif>Le but de ce stage est de mettre en place un serveur de supervision. J'ai du installer Shinken ainsi Nagvis qui est un module permettant à shinken d’apporter des fonctions de visualisations graphiques avancée.</descriptif>
+      <contexte>Ce stage s’est effectuer au sein du service Exploitation des Systèmes d’Informations et Télécom qui dépend de la Direction des Systèmes d’Informations et Télécommunications du Conseil Général de la Corse du Sud.</contexte>
+      <datedebut>2013-01-07</datedebut>
+      <datefin>2013-02-15</datefin>
+      <environnement>Serveur, distribution debian squeeze, l'application nagios/skinken, application putty et WinSCP, module Nagvis, XenCenter.</environnement>
+      <moyen>Ordinateur hp, architecture du réseau, documentation internet, documentation Madame Nivaggioni Pignon.</moyen>
+      <avisperso>Grâce a ce stage, j'ai pu pousser mes compétences dans la supervision. Le Chef de service m'a proposer de revenir pour pouvoir former les techniciens.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>J'ai mis en place shinken et Nagvis (semaine 3-4-5-6).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai rendu compte de mon activé sur les wiki ainsi qu'a mon tuteur de stage. (wiki)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Créer un nouveau planning pour voir si on a bien sui le planning de base</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>J'ai former les techniciens pour l'utilisation de shinken.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>J'ai configuré un serveur.
+(Semaine 3)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>J'ai configuré un serveur sur une machine virtuel. 
+(Semaine 1 dans Création d'une machine virtuel sous XenCenter)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>J'ai produit une documentation technique sur le fonctionnement de shinken. 
+(Semaine 6 dans Tuto Shinken)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="21">
+        <numero>21</numero>
+        <designation>Wiki</designation>
+        <adresse>http://llb.ac-corse.fr/lcs/index.php?url_redirect=accueil.php</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="82">
+      <ref>82</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Prise en charge d'incidents</libcourt>
+      <descriptif>ARS</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-04</datedebut>
+      <datefin>2012-06-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="105">
+      <ref>105</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation NagVis</libcourt>
+      <descriptif>L’objectif est de mettre en place des fonctionnalités supplémentaires telles que: Une interface de type NagVis sur le serveur de supervision.</descriptif>
+      <contexte>Ce Stage s'est effectuer au au sein du service Exploitation des Systèmes d’Informations et Télécom qui dépend de la Direction des Systèmes d’Informations et Télécommunications du Conseil Général de la Corse du Sud. </contexte>
+      <datedebut>2013-01-07</datedebut>
+      <datefin>2013-02-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="108">
+      <ref>108</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Séparation des flux</libcourt>
+      <descriptif>Le laboratoire GSB a récemment fait basculé son infrastructure téléphonique vers une architecture ToIP afin de réduire ses coûts de communications inter-sites.
+Cependant, certain bureaux ne disposent que d'une seule prise RJ45 ne permettant pas de branc</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-04-30</datedebut>
+      <datefin>2013-05-10</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="113">
+      <ref>113</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Configuration d'un accès Internet sécurisé pour les BTS SIO</libcourt>
+      <descriptif>BTS SIO</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-10-23</datedebut>
+      <datefin>2013-12-18</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

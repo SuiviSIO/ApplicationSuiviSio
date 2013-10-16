@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51caf5ba10826">
+    <ref>51caf5ba10826</ref>
+    <datesv>2013-06-26</datesv>
+  </sauvegarde>
+  <etudiant numero="17">
+    <nom>Andarelli</nom>
+    <prenom>Jean-baptiste</prenom>
+    <mel>jeanbaptiste.andarelli@gmail.com</mel>
+    <situation ref="124">
+      <ref>124</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>GoodBarber</libcourt>
+      <descriptif>Objectif : se familiariser avec l'environnement de développement Windows Phone (dans le domaine du développement d'applications mobiles).</descriptif>
+      <contexte>Lors du stage de première année, c'est une mise en situation afin de mieux comprendre le fonctionnement de GoodBarber.</contexte>
+      <datedebut>2013-05-27</datedebut>
+      <datefin>2013-06-14</datefin>
+      <environnement>CampusPlex - DuoApps</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="31">
+        <numero>31</numero>
+        <designation>Situation professionnelle</designation>
+        <adresse>https://docs.google.com/document/d/1ZfN1Hpx9LegB3xHD0SwQQFdWmVeiLU1DFN1IyrXN4K8/edit?usp=sharing</adresse>
+      </production>
+      <production numero="32">
+        <numero>32</numero>
+        <designation>Documentation technique</designation>
+        <adresse>https://docs.google.com/document/d/1TtdkHNzJbUkrYP0kENitxiefQ48Mt0AIzL_kEV-9k7U/edit?usp=sharing</adresse>
+      </production>
+    </situation>
+    <situation ref="126">
+      <ref>126</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>FZN</libcourt>
+      <descriptif>Objectif : mener à bien la création d'une application Windows Store pour le site www.fredzone.org (FZN).</descriptif>
+      <contexte>Lors du stage de 1ère année à CampusPlex.</contexte>
+      <datedebut>2013-06-14</datedebut>
+      <datefin>2013-06-21</datefin>
+      <environnement>CampusPlex - DuoApps</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="33">
+        <numero>33</numero>
+        <designation>Situation professionnelle</designation>
+        <adresse>https://docs.google.com/document/d/1ImAA5kNzrVHACIkSeqSC6J7YtFbNxd_I-4ETiS2EmJY/edit?usp=sharing</adresse>
+      </production>
+      <production numero="34">
+        <numero>34</numero>
+        <designation>Documentation technique</designation>
+        <adresse>https://docs.google.com/document/d/1ZN_4evNrCI2ZEw490BgRH4HNDguqt6gR1QPvDVdDQfM/edit?usp=sharing</adresse>
+      </production>
+      <production numero="35">
+        <numero>35</numero>
+        <designation>Veille technologique</designation>
+        <adresse>https://docs.google.com/file/d/0B4q94cX_rEJgNFhsdFc3ZXFSRWs/edit?usp=sharing</adresse>
+      </production>
+    </situation>
+    <situation ref="127">
+      <ref>127</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Festival</libcourt>
+      <descriptif>Développement et évolution d'une application Billetterie pour l'association Latinità (Festival du Cinéma Espagnol et Latino­ américain).</descriptif>
+      <contexte>En cours, nous devions compléter et faire évoluer une application sur laquelle nous avions déjà travaillé.</contexte>
+      <datedebut>2013-03-12</datedebut>
+      <datefin>2013-04-23</datefin>
+      <environnement>Lycée Laetitia Bonaparte</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="36">
+        <numero>36</numero>
+        <designation>Situation professionnelle</designation>
+        <adresse>https://docs.google.com/document/d/1b1hGQ8I9HiOtLdL-A8xgOe4t1MWshA5l5gv7YLJupC4/edit?usp=sharing</adresse>
+      </production>
+      <production numero="37">
+        <numero>37</numero>
+        <designation>Diagramme de Gantt</designation>
+        <adresse>https://docs.google.com/document/d/1b1hGQ8I9HiOtLdL-A8xgOe4t1MWshA5l5gv7YLJupC4/edit?usp=sharing</adresse>
+      </production>
+      <production numero="38">
+        <numero>38</numero>
+        <designation>Documentation technique</designation>
+        <adresse>https://docs.google.com/document/d/1-neH2KWyH7VhqaecoVhuPuJEjw1weWtTD13m69zOp0w/edit?usp=sharing</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

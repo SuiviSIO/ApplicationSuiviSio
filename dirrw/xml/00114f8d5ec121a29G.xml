@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4f8d5ec121a29">
+    <ref>4f8d5ec121a29</ref>
+    <datesv>2012-04-17</datesv>
+  </sauvegarde>
+  <etudiant numero="11">
+    <nom>Pellegrini</nom>
+    <prenom>jean-Christophe</prenom>
+    <mel>jchristophe.pellegrini@gmail.com</mel>
+  </etudiant>
+</suivicomp>

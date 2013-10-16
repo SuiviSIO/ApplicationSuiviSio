@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4fbb95f93f617">
+    <ref>4fbb95f93f617</ref>
+    <datesv>2012-05-22</datesv>
+  </sauvegarde>
+  <etudiant numero="12">
+    <nom>Pruneta</nom>
+    <prenom>Anthony</prenom>
+    <mel>antho.pruneta@gmail.com</mel>
+    <situation ref="8">
+      <ref>8</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Developpement d'une application Python</libcourt>
+      <descriptif>Création d'un logiciel permettant la gestion de fichier (modification, création, suppression) pour le logiciel CEGID (application de gestion d'entreprise).</descriptif>
+      <contexte>L'objectif de ce projet est de créer une application graphique destinée aux élèves du BTS comptabilité afin de gérer au mieux les sociétés auxquelles chacun peut accéder sans avoir à intervenir manuellement sur le fichier CEGIDPGI.INI.</contexte>
+      <datedebut>2011-11-22</datedebut>
+      <datefin>2012-01-10</datefin>
+      <environnement>L’environnement technologique que j'ai utilisé pour ce projet est le langage PYTHON.</environnement>
+      <moyen>Les moyens mis à disposition pour ce projet ont été : l'IDE visual studio avec les plugins pour la compatibilité python, un cahier des charges, une documentation python, et une ressource humain qu'on été nos professeurs.</moyen>
+      <avisperso>Un PPE assez difficile a démarrer du aux manques de connaissance en PYTHON, ce fut aussi pour moi ma première application. J'ai été un peu déçu de ne pas avoir le temps de la terminer.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Comprendre le besoin et savoir le retranscrire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Répartition des taches.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Rédaction de l'algo et création de l'IHM.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Choix de visual studio avec les plugins python.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Optimisation de notre IHM sur machine.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Utilisation de python.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Test de notre application et correction des bugs.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="10">
+      <ref>10</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Développement d'un application en Php.</libcourt>
+      <descriptif>Le Lycée Laetitia dispose une application de type “cahier de texte en ligne”. Le plugin est développé en PHP et utilise une base de données MySQL. À chaque rentrée, elle doit être vidée puis alimentée par les nouvelles informations.</descriptif>
+      <contexte>Il existe deux cas de figure entraînant des problèmes quand lorsque la même matière des élèves d'une même classe n'ont pas le même enseignant ou quand lorsque dans une même classe, les élèves ne suivent pas la même matière.</contexte>
+      <datedebut>2012-03-06</datedebut>
+      <datefin>2012-05-15</datefin>
+      <environnement>Notre environnement technologique pour ce projet était le langage PHP et quelques requête SQL.</environnement>
+      <moyen>Les moyens mis en œuvre pour ce projet était l'utilisation de netbeans, l'utilisation d'un mémo PHP, et l'aide de nos professeurs et la lecture du cahier des charges.</moyen>
+      <avisperso>J'ai commencer ce projet sans aucune base PHP. Mais suite aux conseils de mes professeurs je me suis penché sur la compréhension du code. Malgré le fait que le projet n'ai pas aboutit celui-ci m'a permit d’acquérir de nombreuses connaissance en php.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Lecture du cahier des charges et compréhension du problème.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Partage des taches entre chaque membres du projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Recherche de la meilleure solution de remplacement (LDAP ou XML)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Modification du fichier XML.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Apprendre l'utilisation de netbeans.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

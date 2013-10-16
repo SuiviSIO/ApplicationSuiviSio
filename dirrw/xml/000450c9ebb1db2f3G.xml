@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="50c9ebb1db2f3">
+    <ref>50c9ebb1db2f3</ref>
+    <datesv>2012-12-13</datesv>
+  </sauvegarde>
+  <etudiant numero="4">
+    <nom>Diaz</nom>
+    <prenom>Jean-Baptiste</prenom>
+    <mel>diaz.jeanbaptiste@gmail.com</mel>
+    <situation ref="20">
+      <ref>20</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Création du site des BTS SIO du Lycée Laetitia Bonaparte</libcourt>
+      <descriptif>Créer le site du BTS SIO avec un système de gestion de contenu ou CMS (Content Management System)
+Proposer un tutoriel sur le fonctionnement du CMS destiné aux futurs auteurs</descriptif>
+      <contexte>Le BTS Services Informatiques aux Organisations doit bénéficier rapidement d’un site internet accessible à partir de l’interface du Lycée. Ce site a pour objectifs de :
+fournir des informations d’ordre général à un public divers (lycéens présents et futu</contexte>
+      <datedebut>2011-11-22</datedebut>
+      <datefin>2014-12-23</datefin>
+      <environnement>mise à disposition d'un serveur test LINUX/DEBIAN
+joomla (système de gestion de contenu)
+winscp (client SFTP graphique pour Windows)</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>L'étude du cahier des charge a permis d'orienter les recherche dans le but de pouvoir répondre à la demande dans les temps. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Répartir les tâches en fonction des compétences de chacun et organiser des réunions dans le but de rendre compte du travail accompli . </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Répertorier les différentes ressources matérielles  et humaines. Créer un calendrier des différentes tâches qui seront assignées .  </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="21">
+      <ref>21</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Adaptation du code d'initialisation du cahier de texte en ligne</libcourt>
+      <descriptif>Le plugin est développé en PHP et utilise une base de données MySQL.
+À chaque rentrée scolaire, cette base de données doit être vidée puis alimentée par les informations de l'année en cours:(liste des enseignants,liste des classes,disciplines enseignées</descriptif>
+      <contexte>Chaque début d’année scolaire, le Lycée Laetitia Bonaparte met à disposition de ces utilisateurs une application de type “cahier de texte en ligne” intégrée au serveur de communication LCS sous forme de plugin. Ce dernier est basé sur le projet GEPI. </contexte>
+      <datedebut>2013-03-05</datedebut>
+      <datefin>2013-03-05</datefin>
+      <environnement>L'application &quot;cahier de texte en ligne&quot;Gepi
+Environnement de Développement Intégré(IDE Netbean 7.1)
+Langage de programmation.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="42">
+      <ref>42</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise en place d'un CMS pour la sociéte Innautic </libcourt>
+      <descriptif>Choix du CMS le plus adapté. Puis mise en place de ce CMS sur un serveur de test.  Enfin, création de la page d'accueil. Cette page devait faire apparaitre différentes fonctionnalités qui devaient répondre à la demande du client.</descriptif>
+      <contexte>L'entreprise Octaedra est une entreprise de développement WEB et éditrice de logiciel pour les professionnels.Une société a fait appel à Octaedra pour mettre en place leur site Web. </contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-22</datefin>
+      <environnement>EasyPhp (apache, php, mysql) pour le serveur de test
+CMS ( Système de Gestion d'un contenu) WordPress
+PHP, html, CSS  
+Artisteer 3 pour la création d'un template</environnement>
+      <moyen>connexion Internet pour la documentation 
+Maquette du site web
+poste de travail faisant office de serveur de test </moyen>
+      <avisperso>Cette expérience a été enrichissante. Ce stage m'a permis d'acquérir de nouvelles compétences et de gagner en professionnalisme.  </avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Organiser un planning personnel en fonction de la quantité de travail à fournir. Rendre compte du travaille accompli au chef de projet.  </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter sur les outils qui se rapprochent de la demande du client, étudier les différentes fonctionnalités, les avantages et les inconvénients. </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

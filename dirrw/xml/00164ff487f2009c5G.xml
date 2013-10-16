@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4ff487f2009c5">
+    <ref>4ff487f2009c5</ref>
+    <datesv>2012-07-04</datesv>
+  </sauvegarde>
+  <etudiant numero="16">
+    <nom>Stromboni</nom>
+    <prenom>Jacques-Barthélemy</prenom>
+    <mel>jb.stromboni@gmail.com</mel>
+    <situation ref="14">
+      <ref>14</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation de machine virtuelle</libcourt>
+      <descriptif>disposé de plusieurs système d'exploitation basé sur Linux</descriptif>
+      <contexte>Nous disposons déjà d'une version basé sur Linux(Debian)</contexte>
+      <datedebut>2011-11-29</datedebut>
+      <datefin>2012-01-17</datefin>
+      <environnement>machine virtuelle </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="23">
+      <ref>23</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>rédaction du cahier des charges nouveau bts</libcourt>
+      <descriptif>Equipe charger de rédiger le cahier des charges pour le nouveau bts sio pour un futur appel d'offre. Ce cahier des charges comporte les caractéristiques des matériels d'interconnexion et les caractéristiques des postes de travail.</descriptif>
+      <contexte>                </contexte>
+      <datedebut>2011-10-04</datedebut>
+      <datefin>2011-11-29</datefin>
+      <environnement></environnement>
+      <moyen>Sites internet des constructeurs pour l'élaboration de cahier des charges de bts sio, référentiel du bts sio.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>La partie dont je m'occupais était le matériels d'interconnexion. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>La rédaction du cahier des charges, il ma fallu me documenter sur les différents constructeurs de c'est matériels. </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="31">
+      <ref>31</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation, configuration d’un logiciel gestion de versions</libcourt>
+      <descriptif>Le logiciel gestion de versions permet 
+</descriptif>
+      <contexte>Les étudiants du BTS SIO sont amenés à développer et à maintenir à travers divers projets des applications.</contexte>
+      <datedebut>2012-03-06</datedebut>
+      <datefin>2012-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="50">
+      <ref>50</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Administration d'un domaine Active Directory</libcourt>
+      <descriptif>A partir des recommandations de mon tuteur, il m'a été demandé de créer de nouveaux utilisateurs puis de les insérer dans des groupes et des Unités Organisationnelles.Création de répertoire personnel, gestion des imprimantes</descriptif>
+      <contexte>Pendant ce stage à la Banque Postale, j'ai créé de nouveaux utilisateurs dans un domaine Active Directory. J'ai du également intervenir en cas d'incidents sur les postes des utilisateurs avec création d'incidents sur OPUS: logiciel de gestion d'incid</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-22</datefin>
+      <environnement>serveurs windows 2008, postes clients (XP)</environnement>
+      <moyen>serveur Active Directory déjà monté, liste des utilisateurs à rajouter, liste des répertoires personnels.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

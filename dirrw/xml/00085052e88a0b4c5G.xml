@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5052e88a0b4c5">
+    <ref>5052e88a0b4c5</ref>
+    <datesv>2012-09-14</datesv>
+  </sauvegarde>
+  <etudiant numero="8">
+    <nom>Lenck</nom>
+    <prenom>Pieranne</prenom>
+    <mel>lenck.pa@gmail.com</mel>
+    <situation ref="22">
+      <ref>22</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Création du site des BTS SIO du lycée Laetitia Bonaparte</libcourt>
+      <descriptif>Le BTS Informatique a été réformé pour laisser la place au BTS Services Informatiques aux Organisations.
+Le site WEB correspondant, véritable vitrine de la section, doit être créé.</descriptif>
+      <contexte>Le BTS Services Informatiques aux Organisations doit bénéficier rapidement d’un site internet accessible à partir de l’interface du Lycée. Ce site a pour objectifs de :
+fournir des informations d’ordre général à un public divers (lycéens (présents et fut</contexte>
+      <datedebut>2011-11-29</datedebut>
+      <datefin>2012-01-17</datefin>
+      <environnement>Le site du BTS SIO avait pour base un JOOMLA, qui est un CMS,et était installé sur un serveur Linux.
+Nous avions comme logiciels WinScp et Putty permettant la connexion au serveur.</environnement>
+      <moyen>Ressources à disposition :
+Documents:  Plateforme de travail
+Cahier des charges du site à créer
+Documentation générale sur le système Linux
+Charte ergonomique des sites internet publics :
+             http://www.references.modernisation.gouv.fr/chart</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Nous devons analyser le cahier des charges, recenser les contraintes technologiques et les besoins.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Le BTS Services Informatiques aux Organisations doit bénéficier rapidement d’un site internet accessible à partir de l’interface du Lycée. Ce site a pour objectifs de :
+fournir des informations d’ordre général à un public divers (lycéens (présents et fut</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Nous avons définit au début du projet ce que chacun devait faire. A chaque fin de séance, nous remplissions le wiki sur le site du lycée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Nous avons dut établir un calendrier afin de pouvoir gérer notre temps pour aboutir le projet à temps.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Grace au cahier des charges, nous savions comment l'interface utilisateur devait être. Nous avons fait fait une maquette sur feuille.</commentaireactivite>
+      </activitecitee>
+      <production numero="3">
+        <numero>3</numero>
+        <designation>La page Wiki du projet</designation>
+        <adresse>http://llb.ac-corse.fr/lcs/index.php?url_redirect=accueil.php</adresse>
+      </production>
+      <production numero="4">
+        <numero>4</numero>
+        <designation>Le site des BTS finalisé</designation>
+        <adresse>http://llb.ac-corse.fr/btssio/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="30">
+      <ref>30</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Cahier de texte en ligne pour Iphone</libcourt>
+      <descriptif>L'objectif de ce projet est de mettre en place une WebApp (site internet optimiser pour iPhone) afin de permettre un accès simple, clair et personnalisé du cahier de texte en ligne.
+Celle-ci permettra donc de consulter le cahier de texte GEPI via une in</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-03-06</datedebut>
+      <datefin>2012-04-10</datefin>
+      <environnement>nous avions comme environnement technologique un serveur Linux, une base de données, un kit de développement pour nous aider a développer ce site sur mesure. </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Nous devons analyser le cahier des charges, recenser les contraintes technologiques et les besoins.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Pour ce projet, il nous était demandé de:7
+
+-créer une application compatible Iphone destinée aux élèves du lycée Laetitia Bonaparte, leur permettant, après authentification, la consultation du cahier de texte en ligne de leur classe ;
+
+-tester et met</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Nous avons définit au début du projet ce que chacun devait faire. A chaque fin de séance, nous remplissions le wiki sur le site du lycée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="5">
+        <numero>5</numero>
+        <designation>Les étapes du projet</designation>
+        <adresse>http://llb.ac-corse.fr/lcs/index.php?url_redirect=accueil.php</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="53">
+      <ref>53</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Migrer les données d'un fichier excel vers une bases de données</libcourt>
+      <descriptif>L'intranet est basé sur le CMS joomla. Il s'agit de migrer toutes les informations des fichiers excel vers la base de données MySql de Joomla grâce au composant Fabrik. Il faut ensuite travailler sur l'affichage de ces informations sur l'intranet.</descriptif>
+      <contexte>La préfecture d’Ajaccio utilise des fichiers Excel pour recenser toutes les informations professionnelles de ses agents (services, fonctions..). Ces informations doivent désormais être disponibles à partir de l'intranet.</contexte>
+      <datedebut>2012-06-08</datedebut>
+      <datefin>2012-07-03</datefin>
+      <environnement>EasyPhp(Apache, MySql, Php, phpMyAdmin) pour la plateforme de test. 
+Le CMS  Joomla 2.5  , ainsi que le composant fabrik 2. Langages de programmation : SQL, HTML, PHP, CSS. IDE: Netbeans 7.1</environnement>
+      <moyen>des documents de travail: cahiers des charges, les fichiers excel contenant les informations des agents, un pc avec une connexion direct à internet et un autre avec un accès au réseau local de la préfecture </moyen>
+      <avisperso>A l'issue de mon stage on m'a propose un contrat de 3 semaines afin de finir mon projet</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>J'ai analysé le cahier des charges et j'ai ainsi défini mes objectifs pour chaque semaine.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Afin que l'affichage convienne à tous les utilisateurs, j'ai montré ma maquette à ma tutrice ainsi qu'aux personnes du standard car se sont eux qui auront le plus besoin de cette application. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Création d'une plateforme de test avec EasyPhp</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Afin de pouvoir transfert les données sur MySql, il m'a fallu télécharger un composant de Joomla, &quot;Fabrik&quot;.</commentaireactivite>
+      </activitecitee>
+      <production numero="17">
+        <numero>17</numero>
+        <designation>Compte rendu de stage</designation>
+        <adresse>http://llb.ac-corse.fr/Plugins/Wiki/wakka.php?wiki=StagePierranne</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

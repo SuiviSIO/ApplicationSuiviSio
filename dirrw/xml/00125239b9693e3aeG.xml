@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5239b9693e3ae">
+    <ref>5239b9693e3ae</ref>
+    <datesv>2013-09-18</datesv>
+  </sauvegarde>
+  <etudiant numero="12">
+    <nom>Pruneta</nom>
+    <prenom>Anthony</prenom>
+    <mel>antho.pruneta@gmail.com</mel>
+    <situation ref="8">
+      <ref>8</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Création d'un logiciel de gestion des sociétés du PGI CEGID</libcourt>
+      <descriptif>Création d'un logiciel permettant la gestion du fichier de configuration (modification, création, suppression) pour le logiciel CEGID (application de gestion d'entreprise).</descriptif>
+      <contexte>L'objectif de ce projet est de créer une application graphique destinée aux élèves du BTS comptabilité afin de gérer au mieux les sociétés auxquelles chacun peut accéder sans avoir à intervenir manuellement sur le fichier CEGIDPGI.INI.</contexte>
+      <datedebut>2011-11-22</datedebut>
+      <datefin>2012-01-10</datefin>
+      <environnement>Pour développer cette application, j'ai utilisé l'IDE Visual Studio 2010 avec les plugins nécessaires pour la compatibilité avec le langage python.</environnement>
+      <moyen>Ce projet a nécessité l'utilisation:
+- De divers documents (cahier des charges, documentations python)
+- D'internet
+- Du Wiki</moyen>
+      <avisperso>Un PPE assez difficile a démarrer du aux manques de connaissance en PYTHON, ce fut aussi pour moi ma première application.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Comprendre le besoin et savoir le retranscrire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Répartition des taches.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Choix de visual studio avec les plugins python.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Optimisation de notre IHM sur machine.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Utilisation de python.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Test de notre application et correction des bugs.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="10">
+      <ref>10</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Développement d'une application en Php.</libcourt>
+      <descriptif>Le Lycée Laetitia dispose une application de type “cahier de texte en ligne”. Le plugin est développé en PHP et utilise une base de données MySQL. À chaque rentrée, elle doit être vidée puis alimentée par les nouvelles informations.</descriptif>
+      <contexte>Il existe deux cas de figure entraînant des problèmes quand lorsque la même matière des élèves d'une même classe n'ont pas le même enseignant ou quand lorsque dans une même classe, les élèves ne suivent pas la même matière.</contexte>
+      <datedebut>2012-03-06</datedebut>
+      <datefin>2012-05-15</datefin>
+      <environnement>Notre environnement technologique pour ce projet était le langage PHP et quelques requêtes SQL.</environnement>
+      <moyen>Les moyens mis en œuvre pour ce projet était l'utilisation de netbeans, l'utilisation d'un mémo PHP, l'aide de nos professeurs et la lecture du cahier des charges.</moyen>
+      <avisperso>J'ai commencer ce projet sans aucune base PHP. Mais suite aux conseils de mes professeurs je me suis penché sur la compréhension du code. Malgré le fait que le projet n'ai pas aboutit celui-ci m'a permit d’acquérir de nombreuses connaissance en php.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Lecture du cahier des charges et compréhension du problème.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Partage des taches entre chaque membres du projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Recherche de la meilleure solution de remplacement (LDAP ou XML)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Modification du fichier XML.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Apprendre l'utilisation de netbeans.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="40">
+      <ref>40</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Travaux sur l'affichage de données et leurs géstion.</libcourt>
+      <descriptif>Travail sur l'affichage de données de l'application trispq. Cette application utilise l'API de foursquare pour traiter les données référençant les voyage en avion des utilisateurs.</descriptif>
+      <contexte>Dans le but d'améliorer le suivit des utilisateurs de trips (site web de la société mapize), mon objectif était de traiter et d'afficher au mieux les informations essentiel a ce suivit.</contexte>
+      <datedebut>2012-05-28</datedebut>
+      <datefin>2012-06-22</datefin>
+      <environnement>Lors de mes modifications de code j'ai utilisé notepad++, j'ai eu acces a la base de donnée grace a PhpMyAdmin et j'ai uploader mes fichier sur le serveur FTP grâce a filezilla.</environnement>
+      <moyen>J'ai eu accès a la base de donnée grâce a phpmyadmin.</moyen>
+      <avisperso>Très bon stage, très enrichissant et professionnalisant.</avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Mon projet était d'afficher aux mieux les données de tripsq.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Proposition d'actualisation en temps réel de la page des utilisateurs au lieux (actuellement) de le faire manuellement utilisateur par utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Travail sur la base de donnée afin d'afficher le maximum de données dans le but de suivre au mieux l'évolution de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Utilisation de PhpMyAdmin pour accéder a la base de données afin d'effectuer des requêtes que je réutilise dans mon code pour afficher les résultats.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Analyse de l'API real time de foursquare.</commentaireactivite>
+      </activitecitee>
+      <production numero="15">
+        <numero>15</numero>
+        <designation>Wiki</designation>
+        <adresse>http://llb.ac-corse.fr/Plugins/Wiki/wakka.php?wiki=StageAntho</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,11 @@
+<?php
+$nomServeur="localhost";
+$loginAdminServeur="usersuivi";
+$motPasseAdminServeur="mdpsuivi";
+$nomBaseDonnee="portefeuilleSIO";
+$prefixeTable="port_";
+$crypte=true;
+$smtp=true;
+$melContact="apollonie.raffalli@ac-corse.fr";
+$lngmdp=6;
+?>

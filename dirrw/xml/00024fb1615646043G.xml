@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4fb1615646043">
+    <ref>4fb1615646043</ref>
+    <datesv>2012-05-14</datesv>
+  </sauvegarde>
+  <etudiant numero="2">
+    <nom>Coeffard</nom>
+    <prenom>Damien</prenom>
+    <mel>damien.coeffard.tc@gmail.com</mel>
+    <situation ref="15">
+      <ref>15</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE 1 - Création d'une Machine Virtuelle XP PRO Sur un Serveur</libcourt>
+      <descriptif>Réalisation d'une Machine Virtuelle fonctionnant sous Windows XP Pro 32 Bits. 
+Utilisation du logiciel NXTop Center pour déployer les machines virtuelles sur tout les postes d'une salle informatique.</descriptif>
+      <contexte>Première année de BTS SIO, l'objectif est de réaliser une machine virtuelle sous Windows XP PRO pour ensuite la déployé sur les postes afin de travailler dessus par la suite. </contexte>
+      <datedebut>2011-09-29</datedebut>
+      <datefin>2012-01-17</datefin>
+      <environnement>Un serveur Windows 2008 avec accès à internet.
+Tutoriel pour l’intégration au domaine.
+</environnement>
+      <moyen>Utilisation du WIKI ! </moyen>
+      <avisperso>Projet interessant, mais réalisé trop rapidement. </avisperso>
+    </situation>
+  </etudiant>
+</suivicomp>

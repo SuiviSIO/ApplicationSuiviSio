@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="518e588dbf4be">
+    <ref>518e588dbf4be</ref>
+    <datesv>2013-05-11</datesv>
+  </sauvegarde>
+  <etudiant numero="24">
+    <nom>Gaudin</nom>
+    <prenom>Alexis</prenom>
+    <mel>alexis.gaudin2a@gmail.com</mel>
+  </etudiant>
+</suivicomp>

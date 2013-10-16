@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="52398e2aa7c19">
+    <ref>52398e2aa7c19</ref>
+    <datesv>2013-09-18</datesv>
+  </sauvegarde>
+  <etudiant numero="1">
+    <nom>Cherrier</nom>
+    <prenom>Loic</prenom>
+    <mel>cherrier.loic@gmail.com</mel>
+    <situation ref="16">
+      <ref>16</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Création d'une webapp Iphone</libcourt>
+      <descriptif>Développement et intégration d’une Solution applicative permettant l’accès au Cahier de Texte(GEPI) à partir de l’iphone.</descriptif>
+      <contexte>Dans le cadre du lycée, on doit pouvoir consulter le cahier de texte en ligne LCS via une authentification de l'élève à partir de l'iphone.
+</contexte>
+      <datedebut>2012-03-06</datedebut>
+      <datefin>2012-04-17</datefin>
+      <environnement>Plusieurs pc client avec un serveur ldap, Netbeans, html, css et php.</environnement>
+      <moyen>Le cahier des charges, internet, des frameworks et un ipod.</moyen>
+      <avisperso>Projet très intéressent, première production web en équipe et assez bonne organisation.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="25">
+      <ref>25</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Application python sur le serveur Cegid</libcourt>
+      <descriptif>L’application doit permettre de construire automatiquement le fichier CEGIDPGI.INI en fonction des fichiers des bases de données présentes dans C:PGI01 ; seules ces bases doivent se retrouver dans le fichier.</descriptif>
+      <contexte>On as du créer une application pour les BTS Comptabilité et Gestion des Organisations à installer sur le serveur CEGID.</contexte>
+      <datedebut>2011-11-29</datedebut>
+      <datefin>2012-01-17</datefin>
+      <environnement>Un pc avec visual studio professionnel, en python.</environnement>
+      <moyen>Le cahier des charges, internet.</moyen>
+      <avisperso>Aucune base en python au commencement et contexte assez flou donc assez difficile de démarrer.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="6">
+        <numero>6</numero>
+        <designation>Code de l'application CEGID</designation>
+        <adresse>http://llb.ac-corse.fr/Plugins/Wiki/upload_dir/GroupeProjet/Programme_Cegid_20120114010018_20120114010743.png</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="44">
+      <ref>44</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Développement d'une interface d'administration d'un site web</libcourt>
+      <descriptif>Conception d'une interface d'administration pour le site web de Vito-corse afin de permettre l'ajout, la modification, la suppression et le déplacement de blocs d'images.</descriptif>
+      <contexte>La société Vito Corse fait appel à Interstem pour la création d'un espace d'administration pour la gestion des images de leur site web.</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-22</datefin>
+      <environnement>EasyPHP (Apache2, PHP, MySQL), l'IDE Netbeans 7.1, langage de programmations utilisés : HTML, CSS, PHP, JAVASCRIPT.</environnement>
+      <moyen>Un PC portable pour la plate-forme de test, documentations web, un export de la base de données existante au format SQL.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="13">
+        <numero>13</numero>
+        <designation>Les différentes création</designation>
+        <adresse>http://lastennet.loic.free.fr</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

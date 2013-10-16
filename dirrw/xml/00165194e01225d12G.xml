@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5194e01225d12">
+    <ref>5194e01225d12</ref>
+    <datesv>2013-05-16</datesv>
+  </sauvegarde>
+  <etudiant numero="16">
+    <nom>Stromboni</nom>
+    <prenom>Jacques-Barthélemy</prenom>
+    <mel>jb.stromboni@gmail.com</mel>
+    <situation ref="14">
+      <ref>14</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation de machine virtuelle</libcourt>
+      <descriptif>disposé de plusieurs système d'exploitation basé sur Linux</descriptif>
+      <contexte>Nous disposons déjà d'une version basé sur Linux(Debian)</contexte>
+      <datedebut>2011-11-29</datedebut>
+      <datefin>2012-01-17</datefin>
+      <environnement>machine virtuelle </environnement>
+      <moyen>Nxtop </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="23">
+      <ref>23</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>rédaction du cahier des charges nouveau bts</libcourt>
+      <descriptif>Equipe charger de rédiger le cahier des charges pour le nouveau bts sio pour un futur appel d'offre. Ce cahier des charges comporte les caractéristiques des matériels d'interconnexion et les caractéristiques des postes de travail.</descriptif>
+      <contexte>                </contexte>
+      <datedebut>2011-10-04</datedebut>
+      <datefin>2011-11-29</datefin>
+      <environnement></environnement>
+      <moyen>Sites internet des constructeurs pour l'élaboration de cahier des charges de bts sio, référentiel du bts sio.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>La partie dont je m'occupais était le matériels d'interconnexion. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>La rédaction du cahier des charges, il ma fallu me documenter sur les différents constructeurs de c'est matériels. </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="50">
+      <ref>50</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Administration d'un domaine Active Directory</libcourt>
+      <descriptif>A partir des recommandations de mon tuteur, il m'a été demandé de créer de nouveaux utilisateurs dans un domaine Active Directory puis de les insérer dans des Unités Organisationnelles. Création de répertoire personnel, gestion des imprimantes</descriptif>
+      <contexte>Le Centre Financier d’Ajaccio dispose d’un parc informatique d’une centaine d’ordinateurs avec un domaine Active Directory. Ainsi que de logiciel métier, imprimantes réseaux. </contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-22</datefin>
+      <environnement>serveurs windows 2008, postes clients (XP)</environnement>
+      <moyen>serveur Active Directory déjà monté, liste des utilisateurs à rajouter, liste des répertoires personnels.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="56">
+      <ref>56</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Nouvelle infrastructure réseau pour le BTS SIO</libcourt>
+      <descriptif>La réferentiel des BTS SIO préconise une ligne ADSL indépendante aux conditions spécifiques suivantes (point 4.4 des &quot;orientations pour la mise en place de l’environnement technologique d’apprentissage&quot;)
+</descriptif>
+      <contexte>Son parc informatique pédagogique se compose d'environ 450 postes répartis dans différents bâtiments et locaux et de 5 serveurs architecturés autour d'une dizaine de VLANs et d’un ensemble d’actif (une quinzaine de commutateurs de niveau 2, d’un commuta</contexte>
+      <datedebut>2012-09-26</datedebut>
+      <datefin>2012-12-13</datefin>
+      <environnement>IOS de Cisco, routeur Cisco 1841, Commutateur HP niveau 2 et 3</environnement>
+      <moyen>Packet tracer de Cisco, Visio, Wiki de lycée, documentation sur Internet </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Cela ma permis de mieux cerner les différents problèmes lié au changement d’infrastructure dans une organisation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="23">
+        <numero>23</numero>
+        <designation>portfolio</designation>
+        <adresse>http://jbstromboni.wordpress.com/realisation-au-centre-de-formation/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="65">
+      <ref>65</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Inventaire et gestion d'un parc informique</libcourt>
+      <descriptif>GLPI est une application web permettant la gestion de parc informatique et de gestion des services d'assistance.</descriptif>
+      <contexte>Dans le cadre de notre formation, nous avons du mettre en place </contexte>
+      <datedebut>2012-11-08</datedebut>
+      <datefin>2012-12-05</datefin>
+      <environnement>debian, Windows Seven, commutateur Cisco 2960, routeur 1841</environnement>
+      <moyen>glpi, Ocsinventory, plugin fusioninventory, Apache2</moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="68">
+      <ref>68</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise en place d’un outil de supervision</libcourt>
+      <descriptif>Lors de mon stage il m'a été demander de réalisé une plateforme de test virtualisé pour l'entreprise. </descriptif>
+      <contexte></contexte>
+      <datedebut>2013-01-07</datedebut>
+      <datefin>2013-02-15</datefin>
+      <environnement>Windows Server 2008, Windows Seven, Proxmox2, Debian, Shinken, Ubuntu</environnement>
+      <moyen>Wiki du lycée, documentation sur Internet, Google Drive</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="79">
+      <ref>79</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Assistance aux utilisateurs</libcourt>
+      <descriptif>En cas d'incident sur les postes des utilisateurs un logiciel de gestion d'incident Opus qui répertorie les incidents et permet d'ouvrir des tickets d'incidents.</descriptif>
+      <contexte>Le Centre Financier d’Ajaccio dispose d’un parc informatique d’une centaine d’ordinateurs. Ainsi que de logiciel métier, imprimantes réseaux. En cas d'incident, l'équipe du service informatique est appeler pour résoudre le problème</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-22</datefin>
+      <environnement>postes de travail</environnement>
+      <moyen>logiciel opus, base de connaissance d'anciens incidents</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

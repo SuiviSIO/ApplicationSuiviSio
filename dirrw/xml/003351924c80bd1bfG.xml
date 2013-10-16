@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51924c80bd1bf">
+    <ref>51924c80bd1bf</ref>
+    <datesv>2013-05-14</datesv>
+  </sauvegarde>
+  <etudiant numero="33">
+    <nom>Poggi</nom>
+    <prenom>Maria-Stella</prenom>
+    <mel>maria.stella.poggi@gmail.com</mel>
+    <situation ref="92">
+      <ref>92</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Partie WINDOWS 2008 et Windows Server Update Service</libcourt>
+      <descriptif>L'installation du service WSUS se fait par ajout de fonctionnalités présent dans Windows Serveur 2008 via panneau de configuration principale -&gt; Ajout/suppr de programmes.
+Vous accédez ensuite a toutes les fonctionnalités WS2008 (par défaut) qu'il e</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-03-05</datedebut>
+      <datefin>2013-05-14</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso>on a rencontrez des difficultés mais sa a été un PPE enrichissant . </avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

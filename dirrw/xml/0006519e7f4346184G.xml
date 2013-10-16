@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="519e7f4346184">
+    <ref>519e7f4346184</ref>
+    <datesv>2013-05-23</datesv>
+  </sauvegarde>
+  <etudiant numero="6">
+    <nom>Billan</nom>
+    <prenom>Jimmy</prenom>
+    <mel>billan.jimmy@gmail.com</mel>
+    <situation ref="32">
+      <ref>32</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise en place d'un système de virtualisation</libcourt>
+      <descriptif>Trouver une alternative à Nxtop center en respectant le cahier des charges (libre, gratuit, déploiement à partir du serveur, etc ...). Pour le changement de ce système nous avons retenue la solution xenServeur .</descriptif>
+      <contexte>En stage pour une durée de 4 semaine  au sein du service informatique du Lycée Laetitia Bonaparte placé sous l’autorité du chef des travaux. Dans une équipe composé de mon binôme (stagiaire) et de professeurs d’informatiques.</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-22</datefin>
+      <environnement>L’environnement technologique de la salle des BTS Informatique est basé sur la solution Xen qui propose de la virtualisation de poste de travail basée sur un hyperviseur client Bare Metal.</environnement>
+      <moyen>-1 salle d'informatique
+-20 Ordinateurs
+-3 serveurs
+-Plusieurs guides d'installations</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Cahier des charges : https://docs.google.com/document/d/1khAtEDjv3BkZBxuS1rp0m5dAOJ5MBKZ16XJWoUuJzQc/edit</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Procedure d'installation https://docs.google.com/document/d/1ZnmHs2BofjyjLVNwqzV1rk45O7PU_uCB92GITolJ8pU/edit</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>https://docs.google.com/document/d/1ZnmHs2BofjyjLVNwqzV1rk45O7PU_uCB92GITolJ8pU/edit</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="38">
+      <ref>38</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Etude et évaluation d'un logiciel web</libcourt>
+      <descriptif>Etude et evaluation de l'application web Prestashop afin de rédiger une note suivi d'un guide d'installation en vue d'une future exploitation des classes de première STMG.</descriptif>
+      <contexte>Le lycée Laetitia a été choisit pour évaluer le logiciel web Prestashop et en rédiger une note permettant de connaître les conditions d'installation et d'exploitation du logiciel pour une exploitation par des professeurs et des élèves non informaticiens</contexte>
+      <datedebut>2012-06-25</datedebut>
+      <datefin>2012-06-25</datefin>
+      <environnement>Dans une salle d'informatique au sein d'un lycée équipé d'une vingtaine de poste basé sur le système de virtualisation xenclient. Utilisation des serveurs apache et Mysql du logiciel easyPHP.</environnement>
+      <moyen>-1 salle d'informatique
+-20 Ordinateurs
+-1 Guide d'installation
+-PHPmyadmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Cahier des charges : https://docs.google.com/document/d/19WHFDO5ui99vzuVAMVkfRoZlNfaT_jlsM0LabgMV2mg/edit</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Compte rendu : https://docs.google.com/document/d/1UfsdwFA-zAXGeVWYpeI6UfZsNq9TLbq4PmalCzWQ-U0/edit</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="55">
+      <ref>55</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation et configuration d'un accès Internet sécurisé</libcourt>
+      <descriptif>Il nous a été demandé de paramettrer une ligne sécurisé spécifique aux classes de BTS SIO du Lycée Laetitia Bonaparte.
+J'ai été chargé de mettre en place le serveur proxy ( squid ) et le par-feu sur un serveur debian.</descriptif>
+      <contexte>Le lycée laetitia Bonaparte fait appel à la société société AJASIO pour mettre en place en seconde ligne internet distincte de la premiere, pour des classes de bts.</contexte>
+      <datedebut>2012-11-29</datedebut>
+      <datefin>2012-11-29</datefin>
+      <environnement>Serveur proxmox pour les tests.
+Serveur Sunfire pour la mise en place.</environnement>
+      <moyen>routeur cisco 1841 avec carte WIC-1ADSL
+commutateurs Cisco 2960
+serveurs virtuels de test sur Proxmox
+serveur de production SUN sunfire X2100 (vierge de toute configuration même système)
+</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="66">
+      <ref>66</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Prise en charge d’incidents et demande d’assistance</libcourt>
+      <descriptif>Ma mission etait de réceptionner les tickets d'incidents et de gérer ces derniers. Je devais soit répondre aux utilisateurs pour leur expliqué la procédure à suivre, soit me déplacer pour résoudre l'incident.
+La gestion des incidents et des ressources </descriptif>
+      <contexte>En mission pour le lycée laetitia bonaparte
+L’ensemble des BTS que compte le lycée représente une centaine de poste, tous reparties dans plusieurs salles différentes. Ma mission consistait a gérer toute les remontées d’incident via l’interface GLPI </contexte>
+      <datedebut>2013-05-01</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement>Salle laboratoire réseau</environnement>
+      <moyen>Un serveur où etait hebergé le logiciel GLPI
+Mon poste utilisateur.
+Un wiki pour la base de connaissance sur les incidents.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="84">
+      <ref>84</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Synchronisation de données utilisateurs </libcourt>
+      <descriptif>Ma mission était de trouver une solution à leur problème de sauvegarde. Un système de sychronisation des documents utilisateur m’a été demandé, cela avait pour but de permettre leur sauvegarde . </descriptif>
+      <contexte>En stage d’une durée de 6 semaines au sein des locaux administratifs de la Communauté d’Agglomération du Pays Ajaccien. J'étais dirigé et conseillé par le développeur chargé de m’encadrer lors du stage.</contexte>
+      <datedebut>2013-05-11</datedebut>
+      <datefin>2013-05-11</datefin>
+      <environnement>Serveurs Linux, Serveur windows 2008, Poste clients windows et mac utilisateur</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="114">
+      <ref>114</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Déploiement d'une architecture centralisée sans fil</libcourt>
+      <descriptif>Le lycée Lætitia Bonaparte a fait appel à la société AJASIO pour mettre en place une architecture centralisée sans fil.
+Accompagné de mon collaborateur nous avons mis en place une infrastructure WiFi configurée pour accueillir des utilisateurs de deux VL</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-03-25</datedebut>
+      <datefin>2013-03-29</datefin>
+      <environnement>Au sein de laboratoire informatique des bts sio du lycée laetitia bonaparte</environnement>
+      <moyen>Controleur Alcatel lucent
+</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

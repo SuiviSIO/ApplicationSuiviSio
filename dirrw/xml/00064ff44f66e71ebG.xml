@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4ff44f66e71eb">
+    <ref>4ff44f66e71eb</ref>
+    <datesv>2012-07-04</datesv>
+  </sauvegarde>
+  <etudiant numero="6">
+    <nom>Billan</nom>
+    <prenom>Jimmy</prenom>
+    <mel>billan.jimmy@gmail.com</mel>
+    <situation ref="2">
+      <ref>2</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Test d'une distribution linux </libcourt>
+      <descriptif>Mise en place et teste d'une distribution linux sur des postes gerer par un systeme de machine virtuelle (nxtop).</descriptif>
+      <contexte>Une salle d'informatique où chacun des postes est géré pour un système de machine virtuelle ( nxtop ).</contexte>
+      <datedebut>2011-12-20</datedebut>
+      <datefin>2012-01-31</datefin>
+      <environnement>Plusieurs pc d'une salle d'informatique gerer par Nxtop</environnement>
+      <moyen>Différentes distribution de linux.
+</moyen>
+      <avisperso></avisperso>
+      <avisprof>
+        <numero>2</numero>
+        <commentaire>Votre description n'est pas suffisante et les activités mises en oeuvre sont à reprendre.</commentaire>
+        <datecommentaire>2012-05-08</datecommentaire>
+        <numprof>3</numprof>
+        <nomprof>Raffalli</nomprof>
+        <prenomprof>Apollonie</prenomprof>
+        <melprof>apo.raffalli@gmail.com</melprof>
+      </avisprof>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="29">
+      <ref>29</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise en place de serveur de test</libcourt>
+      <descriptif>Mise en place d'un serveur avec la solution libre pédagogique sous linux ( sambaEdu ) 
+Mise en place d'une politique de création de login en php.</descriptif>
+      <contexte>Projet de cours sur le reseau local d'un lycée</contexte>
+      <datedebut>2012-05-22</datedebut>
+      <datefin>2012-05-22</datefin>
+      <environnement>Réseau d'un lycée
+Serveur virtuelles</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="32">
+      <ref>32</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise en place d'un système de virtualisation</libcourt>
+      <descriptif>Trouver une alternative à Nxtop center en respectant le cahier des charges (libre, gratuit, déploiement à partir du serveur, etc ...).
+Pour le changement de ce système trois possibilités parmi tant d'autre ont été retenue : xenServeur, Qubes, Proxmox.</descriptif>
+      <contexte>L’environnement de la salle des BTS Informatique est basé sur la solution NxTOP de Virtual Computer qui propose de la virtualisation de poste de travail basée sur un hyperviseur client Bare Metal.</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-22</datefin>
+      <environnement>L’environnement technologique de la salle des BTS Informatique est basé sur la solution Xen qui propose de la virtualisation de poste de travail basée sur un hyperviseur client Bare Metal.</environnement>
+      <moyen>-1 salle d'informatique
+-20 Ordinateurs
+-3 serveurs
+-Plusieurs guides d'installations</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Cahier des charges : https://docs.google.com/document/d/1khAtEDjv3BkZBxuS1rp0m5dAOJ5MBKZ16XJWoUuJzQc/edit</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Trouver le système de virtualisation le plus adapter parmi 3 proposés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Procedure d'installation https://docs.google.com/document/d/1ZnmHs2BofjyjLVNwqzV1rk45O7PU_uCB92GITolJ8pU/edit</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>https://docs.google.com/document/d/1ZnmHs2BofjyjLVNwqzV1rk45O7PU_uCB92GITolJ8pU/edit</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="38">
+      <ref>38</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Etude et évaluation d'un logiciel web</libcourt>
+      <descriptif>Etude et evaluation de l'application web Prestashop afin de rédiger une note suivi d'un guide d'installation en vue d'une future exploitation des classes de première STMG.</descriptif>
+      <contexte>Le lycée Laetitia a été choisit pour évaluer le logiciel web Prestashop et en rédiger une note permettant de connaître les conditions d'installation et d'exploitation du logiciel pour une exploitation par des professeurs et des élèves non informaticiens</contexte>
+      <datedebut>2012-06-25</datedebut>
+      <datefin>2012-06-25</datefin>
+      <environnement>Dans une salle d'informatique au sein d'un lycée équipé d'une vingtaine de poste basé sur le système de virtualisation xenclient. Utilisation des serveurs apache et Mysql du logiciel easyPHP.</environnement>
+      <moyen>-1 salle d'informatique
+-20 Ordinateurs
+-1 Guide d'installation
+-PHPmyadmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Cahier des charges : https://docs.google.com/document/d/19WHFDO5ui99vzuVAMVkfRoZlNfaT_jlsM0LabgMV2mg/edit</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Compte rendu : https://docs.google.com/document/d/1UfsdwFA-zAXGeVWYpeI6UfZsNq9TLbq4PmalCzWQ-U0/edit</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>
