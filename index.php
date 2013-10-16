@@ -1,3 +1,4 @@
+//test
 <?php
 function __autoload($class_name) {
     require_once './ctrl/'.$class_name.'.class.php';
@@ -26,10 +27,10 @@ if (@opendir('dirrw/init/')) {
       	$util->changeGroupe($_REQUEST["legroupe"]);
       	$ctrl= new Eaccueil($util,"p");
       }	
-      elseif ($act=='synthese'){ /***** ajouté par le LLB le 26-06-12 *****/
+      elseif ($act=='synthese'){ /***** ajoutï¿½ par le LLB le 26-06-12 *****/
 	$type = $_GET["type"]; //$type recevra comme valeur f ou s1 ou s2
 	$actm=ucfirst($act);
-        $ctrl = new $actm($util, $type, $_REQUEST); //ajout du paramètre $type dans le constructeur de la classe Synthese (voir ctrl/Synthese.class.php)
+        $ctrl = new $actm($util, $type, $_REQUEST); //ajout du paramï¿½tre $type dans le constructeur de la classe Synthese (voir ctrl/Synthese.class.php)
       }
       else {
       	$actm=ucfirst($act);
